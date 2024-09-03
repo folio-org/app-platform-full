@@ -194,10 +194,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-dcb",
-      "version": "latest"
-    },
-    {
       "name": "mod-patron",
       "version": "latest"
     },
@@ -275,10 +271,6 @@
     },
     {
       "name": "mod-password-validator",
-      "version": "latest"
-    },
-    {
-      "name": "edge-dcb",
       "version": "latest"
     },
     {
