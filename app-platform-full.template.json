@@ -90,10 +90,6 @@
       "version": "latest"
     },
     {
-      "name": "edge-inn-reach",
-      "version": "latest"
-    },
-    {
       "name": "mod-users-bl",
       "version": "latest"
     },
@@ -255,10 +251,6 @@
     },
     {
       "name": "mod-record-specifications",
-      "version": "latest"
-    },
-    {
-      "name": "mod-inn-reach",
       "version": "latest"
     },
     {
@@ -561,10 +553,6 @@
     },
     {
       "name": "folio_servicepoints",
-      "version": "latest"
-    },
-    {
-      "name": "folio_inn-reach",
       "version": "latest"
     },
     {
