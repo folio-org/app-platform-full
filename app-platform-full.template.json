@@ -30,6 +30,10 @@
       "version": "latest"
     },
     {
+      "name": "mod-tlr",
+      "version": "latest"
+    },
+    {
       "name": "edge-courses",
       "version": "latest"
     },
