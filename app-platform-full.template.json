@@ -326,6 +326,14 @@
       "version": "latest"
     },
     {
+      "name": "edge-dcb",
+      "version": "latest"
+    },
+    {
+      "name": "edge-inn-reach",
+      "version": "latest"
+    },
+    {
       "name": "mod-invoice-storage",
       "version": "latest"
     },
@@ -335,6 +343,14 @@
     },
     {
       "name": "mod-data-export",
+      "version": "latest"
+    },
+    {
+      "name": "mod-dcb",
+      "version": "latest"
+    },
+    {
+      "name": "mod-inn-reach",
       "version": "latest"
     },
     {
@@ -357,6 +373,10 @@
   "uiModules": [
     {
       "name": "folio_authorization-policies",
+      "version": "latest"
+    },
+    {
+      "name": "folio_inn-reach",
       "version": "latest"
     },
     {
