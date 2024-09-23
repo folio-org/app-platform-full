@@ -98,10 +98,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-oa",
-      "version": "latest"
-    },
-    {
       "name": "mod-inventory-storage",
       "version": "latest"
     },
@@ -291,10 +287,6 @@
     },
     {
       "name": "mod-finance",
-      "version": "latest"
-    },
-    {
-      "name": "mod-ldp",
       "version": "latest"
     },
     {
