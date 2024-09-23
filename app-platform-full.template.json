@@ -352,10 +352,6 @@
     {
       "name": "mod-eusage-reports",
       "version": "latest"
-    },
-    {
-      "name": "mod-okapi-facade",
-      "version": "latest"
     }
   ],
   "uiModules": [
