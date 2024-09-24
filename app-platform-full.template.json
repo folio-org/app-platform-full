@@ -314,10 +314,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-requests-mediated",
-      "version": "latest"
-    },
-    {
       "name": "mod-patron-blocks",
       "version": "latest"
     },
@@ -416,10 +412,6 @@
       "version": "latest"
     },
     {
-      "name": "folio_ldp",
-      "version": "latest"
-    },
-    {
       "name": "folio_plugin-find-po-line",
       "version": "latest"
     },
@@ -465,10 +457,6 @@
     },
     {
       "name": "folio_lists",
-      "version": "latest"
-    },
-    {
-      "name": "folio_erm-usage",
       "version": "latest"
     },
     {
@@ -625,10 +613,6 @@
     },
     {
       "name": "folio_finance",
-      "version": "latest"
-    },
-    {
-      "name": "folio_oa",
       "version": "latest"
     },
     {
