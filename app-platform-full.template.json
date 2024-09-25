@@ -408,10 +408,6 @@
       "version": "latest"
     },
     {
-      "name": "folio_ldp",
-      "version": "latest"
-    },
-    {
       "name": "folio_plugin-find-po-line",
       "version": "latest"
     },
@@ -457,10 +453,6 @@
     },
     {
       "name": "folio_lists",
-      "version": "latest"
-    },
-    {
-      "name": "folio_erm-usage",
       "version": "latest"
     },
     {
@@ -549,10 +541,6 @@
     },
     {
       "name": "folio_servicepoints",
-      "version": "latest"
-    },
-    {
-      "name": "folio_inn-reach",
       "version": "latest"
     },
     {
