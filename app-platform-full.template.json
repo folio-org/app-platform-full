@@ -90,15 +90,7 @@
       "version": "latest"
     },
     {
-      "name": "edge-inn-reach",
-      "version": "latest"
-    },
-    {
       "name": "mod-users-bl",
-      "version": "latest"
-    },
-    {
-      "name": "mod-oa",
       "version": "latest"
     },
     {
@@ -262,10 +254,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-inn-reach",
-      "version": "latest"
-    },
-    {
       "name": "mod-orders-storage",
       "version": "latest"
     },
@@ -278,10 +266,6 @@
       "version": "latest"
     },
     {
-      "name": "edge-dcb",
-      "version": "latest"
-    },
-    {
       "name": "mod-fqm-manager",
       "version": "latest"
     },
@@ -291,14 +275,6 @@
     },
     {
       "name": "mod-finance",
-      "version": "latest"
-    },
-    {
-      "name": "mod-ldp",
-      "version": "latest"
-    },
-    {
-      "name": "mod-tlr",
       "version": "latest"
     },
     {
@@ -327,10 +303,6 @@
     },
     {
       "name": "mod-inventory",
-      "version": "latest"
-    },
-    {
-      "name": "mod-requests-mediated",
       "version": "latest"
     },
     {
@@ -645,10 +617,6 @@
     },
     {
       "name": "folio_finance",
-      "version": "latest"
-    },
-    {
-      "name": "folio_oa",
       "version": "latest"
     },
     {
