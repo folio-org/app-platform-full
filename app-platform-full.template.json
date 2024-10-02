@@ -254,10 +254,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-inn-reach",
-      "version": "latest"
-    },
-    {
       "name": "mod-orders-storage",
       "version": "latest"
     },
@@ -545,10 +541,6 @@
     },
     {
       "name": "folio_servicepoints",
-      "version": "latest"
-    },
-    {
-      "name": "folio_inn-reach",
       "version": "latest"
     },
     {
