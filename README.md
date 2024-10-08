@@ -97,6 +97,7 @@ Application descriptor repository for app-platform-full. Comprised of all FOLIO 
 | `mod-notes`                 |
 | `mod-kb-ebsco-java`         |
 | `mod-eusage-reports`        |
+| `mod-okapi-facade`          |
 
 ## UI Modules
 
