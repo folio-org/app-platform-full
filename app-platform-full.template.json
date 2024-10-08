@@ -6,6 +6,10 @@
   "dependencies": [],
   "modules": [
     {
+      "name": "mod-okapi-facade",
+      "version": "latest"
+    },
+    {
       "name": "mod-scheduler",
       "version": "latest"
     },
