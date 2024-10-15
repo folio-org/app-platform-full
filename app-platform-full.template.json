@@ -428,10 +428,6 @@
       "version": "latest"
     },
     {
-      "name": "folio_ldp",
-      "version": "latest"
-    },
-    {
       "name": "folio_plugin-find-po-line",
       "version": "latest"
     },
