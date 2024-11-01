@@ -368,6 +368,10 @@
   ],
   "uiModules": [
     {
+      "name": "folio_claims",
+      "version": "latest"
+    },
+    {
       "name": "folio_authorization-policies",
       "version": "latest"
     },
