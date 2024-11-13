@@ -6,10 +6,6 @@
   "dependencies": [],
   "modules": [
     {
-      "name": "mod-okapi-facade",
-      "version": "latest"
-    },
-    {
       "name": "mod-circulation-bff",
       "version": "latest"
     },
@@ -35,10 +31,6 @@
     },
     {
       "name": "mod-tags",
-      "version": "latest"
-    },
-    {
-      "name": "mod-tlr",
       "version": "latest"
     },
     {
@@ -99,6 +91,10 @@
     },
     {
       "name": "edge-ncip",
+      "version": "latest"
+    },
+    {
+      "name": "edge-inn-reach",
       "version": "latest"
     },
     {
@@ -202,6 +198,10 @@
       "version": "latest"
     },
     {
+      "name": "mod-dcb",
+      "version": "latest"
+    },
+    {
       "name": "mod-patron",
       "version": "latest"
     },
@@ -266,6 +266,10 @@
       "version": "latest"
     },
     {
+      "name": "mod-inn-reach",
+      "version": "latest"
+    },
+    {
       "name": "mod-orders-storage",
       "version": "latest"
     },
@@ -275,6 +279,10 @@
     },
     {
       "name": "mod-password-validator",
+      "version": "latest"
+    },
+    {
+      "name": "edge-dcb",
       "version": "latest"
     },
     {
@@ -290,7 +298,7 @@
       "version": "latest"
     },
     {
-      "name": "mod-reporting",
+      "name": "mod-tlr",
       "version": "latest"
     },
     {
@@ -334,10 +342,6 @@
       "version": "latest"
     },
     {
-      "name": "edge-dcb",
-      "version": "latest"
-    },
-    {
       "name": "mod-invoice-storage",
       "version": "latest"
     },
@@ -347,10 +351,6 @@
     },
     {
       "name": "mod-data-export",
-      "version": "latest"
-    },
-    {
-      "name": "mod-dcb",
       "version": "latest"
     },
     {
@@ -367,6 +367,10 @@
     },
     {
       "name": "mod-eusage-reports",
+      "version": "latest"
+    },
+    {
+      "name": "mod-okapi-facade",
       "version": "latest"
     }
   ],
@@ -433,6 +437,10 @@
     },
     {
       "name": "folio_calendar",
+      "version": "latest"
+    },
+    {
+      "name": "folio_ldp",
       "version": "latest"
     },
     {
@@ -576,6 +584,10 @@
       "version": "latest"
     },
     {
+      "name": "folio_inn-reach",
+      "version": "latest"
+    },
+    {
       "name": "folio_local-kb-admin",
       "version": "latest"
     },
@@ -593,10 +605,6 @@
     },
     {
       "name": "folio_plugin-query-builder",
-      "version": "latest"
-    },
-    {
-      "name": "folio_ldp",
       "version": "latest"
     },
     {
