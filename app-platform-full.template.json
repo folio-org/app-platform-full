@@ -372,6 +372,10 @@
     {
       "name": "mod-okapi-facade",
       "version": "latest"
+    },
+    {
+      "name": "mod-circulation-bff",
+      "version": "latest"
     }
   ],
   "uiModules": [
