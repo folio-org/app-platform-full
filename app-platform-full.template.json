@@ -310,10 +310,6 @@
       "version": "latest"
     },
     {
-      "name": "mod-marc-migrations",
-      "version": "latest"
-    },
-    {
       "name": "edge-oai-pmh",
       "version": "latest"
     },
