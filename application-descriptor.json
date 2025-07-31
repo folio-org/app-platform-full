@@ -1,0 +1,659 @@
+{
+  "name": "app-platform-full",
+  "version": "1.0.0-SNAPSHOT.1000",
+  "description": "Application comprised of all Folio modules",
+  "platform": "base",
+  "dependencies": [],
+  "modules": [
+    {
+      "name": "mod-circulation-bff",
+      "version": "1.2.0-SNAPSHOT.72"
+    },
+    {
+      "name": "mod-scheduler",
+      "version": "3.1.0-SNAPSHOT.133"
+    },
+    {
+      "name": "mod-remote-storage",
+      "version": "3.5.0-SNAPSHOT.234"
+    },
+    {
+      "name": "mod-finance-storage",
+      "version": "8.9.0-SNAPSHOT.415"
+    },
+    {
+      "name": "mod-ebsconet",
+      "version": "2.5.0-SNAPSHOT.91"
+    },
+    {
+      "name": "edge-sip2",
+      "version": "3.5.0-SNAPSHOT.195"
+    },
+    {
+      "name": "mod-tags",
+      "version": "2.5.0-SNAPSHOT.116"
+    },
+    {
+      "name": "edge-courses",
+      "version": "1.7.0-SNAPSHOT.27"
+    },
+    {
+      "name": "mod-inventory-update",
+      "version": "5.0.0-SNAPSHOT.142"
+    },
+    {
+      "name": "mod-notify",
+      "version": "3.5.0-SNAPSHOT.139"
+    },
+    {
+      "name": "mod-configuration",
+      "version": "5.13.0-SNAPSHOT.139"
+    },
+    {
+      "name": "edge-caiasoft",
+      "version": "2.5.0-SNAPSHOT.57"
+    },
+    {
+      "name": "mod-licenses",
+      "version": "6.3.0-SNAPSHOT.288"
+    },
+    {
+      "name": "mod-gobi",
+      "version": "3.1.0-SNAPSHOT.262"
+    },
+    {
+      "name": "mod-graphql",
+      "version": "1.13.1000377"
+    },
+    {
+      "name": "mod-erm-usage",
+      "version": "5.2.0-SNAPSHOT.218"
+    },
+    {
+      "name": "mod-batch-print",
+      "version": "1.3.1-SNAPSHOT.16"
+    },
+    {
+      "name": "mod-copycat",
+      "version": "1.8.0"
+    },
+    {
+      "name": "mod-entities-links",
+      "version": "4.1.0-SNAPSHOT.345"
+    },
+    {
+      "name": "mod-orders",
+      "version": "13.1.0-SNAPSHOT.1053"
+    },
+    {
+      "name": "edge-patron",
+      "version": "5.4.0-SNAPSHOT.145"
+    },
+    {
+      "name": "edge-ncip",
+      "version": "1.11.0-SNAPSHOT.37"
+    },
+    {
+      "name": "edge-inn-reach",
+      "version": "3.6.0-SNAPSHOT.67"
+    },
+    {
+      "name": "mod-users-bl",
+      "version": "7.11.0-SNAPSHOT.183"
+    },
+    {
+      "name": "mod-oa",
+      "version": "3.3.0-SNAPSHOT.191"
+    },
+    {
+      "name": "mod-inventory-storage",
+      "version": "30.0.0-SNAPSHOT.1182"
+    },
+    {
+      "name": "mod-invoice",
+      "version": "6.1.0-SNAPSHOT.480"
+    },
+    {
+      "name": "mod-user-import",
+      "version": "3.11.0-SNAPSHOT.110"
+    },
+    {
+      "name": "mod-sender",
+      "version": "1.14.1"
+    },
+    {
+      "name": "mod-data-export-worker",
+      "version": "3.5.0-SNAPSHOT.627"
+    },
+    {
+      "name": "mod-circulation-storage",
+      "version": "17.5.0-SNAPSHOT.474"
+    },
+    {
+      "name": "mod-calendar",
+      "version": "3.4.0-SNAPSHOT.185"
+    },
+    {
+      "name": "mod-event-config",
+      "version": "2.10.0-SNAPSHOT.72"
+    },
+    {
+      "name": "mod-courses",
+      "version": "1.5.0-SNAPSHOT.170"
+    },
+    {
+      "name": "mod-circulation-item",
+      "version": "1.3.0-SNAPSHOT.45"
+    },
+    {
+      "name": "mod-email",
+      "version": "1.20.0-SNAPSHOT.93"
+    },
+    {
+      "name": "mod-di-converter-storage",
+      "version": "2.5.0-SNAPSHOT.74"
+    },
+    {
+      "name": "mod-pubsub",
+      "version": "2.17.0-SNAPSHOT.263"
+    },
+    {
+      "name": "mod-circulation",
+      "version": "24.5.0-SNAPSHOT.1324"
+    },
+    {
+      "name": "edge-rtac",
+      "version": "2.10.0-SNAPSHOT.114"
+    },
+    {
+      "name": "edge-orders",
+      "version": "3.3.0-SNAPSHOT.93"
+    },
+    {
+      "name": "mod-users",
+      "version": "19.6.0-SNAPSHOT.361"
+    },
+    {
+      "name": "mod-template-engine",
+      "version": "1.23.0-SNAPSHOT.103"
+    },
+    {
+      "name": "mod-audit",
+      "version": "3.0.0-SNAPSHOT.225"
+    },
+    {
+      "name": "mod-source-record-manager",
+      "version": "3.11.0-SNAPSHOT.1037"
+    },
+    {
+      "name": "mod-quick-marc",
+      "version": "7.1.0-SNAPSHOT.328"
+    },
+    {
+      "name": "mod-feesfines",
+      "version": "19.4.0-SNAPSHOT.253"
+    },
+    {
+      "name": "mod-service-interaction",
+      "version": "4.3.0-SNAPSHOT.144"
+    },
+    {
+      "name": "mod-dcb",
+      "version": "2.0.0-SNAPSHOT.138"
+    },
+    {
+      "name": "mod-patron",
+      "version": "6.4.0-SNAPSHOT.169"
+    },
+    {
+      "name": "edge-connexion",
+      "version": "1.4.2-SNAPSHOT.40"
+    },
+    {
+      "name": "mod-organizations-storage",
+      "version": "5.0.0-SNAPSHOT.128"
+    },
+    {
+      "name": "mod-login-keycloak",
+      "version": "3.1.0-SNAPSHOT.130"
+    },
+    {
+      "name": "mod-users-keycloak",
+      "version": "3.1.0-SNAPSHOT.172"
+    },
+    {
+      "name": "mod-roles-keycloak",
+      "version": "3.1.0-SNAPSHOT.239"
+    },
+    {
+      "name": "mod-data-export-spring",
+      "version": "3.6.0-SNAPSHOT.309"
+    },
+    {
+      "name": "mod-ncip",
+      "version": "1.16.0-SNAPSHOT.110"
+    },
+    {
+      "name": "mod-agreements",
+      "version": "7.3.0-SNAPSHOT.785"
+    },
+    {
+      "name": "mod-organizations",
+      "version": "2.2.0-SNAPSHOT.73"
+    },
+    {
+      "name": "mod-settings",
+      "version": "1.3.0-SNAPSHOT.57"
+    },
+    {
+      "name": "mod-serials-management",
+      "version": "2.1.0-SNAPSHOT.165"
+    },
+    {
+      "name": "mod-search",
+      "version": "6.0.0-SNAPSHOT.718"
+    },
+    {
+      "name": "mod-data-import",
+      "version": "3.4.0-SNAPSHOT.335"
+    },
+    {
+      "name": "edge-dematic",
+      "version": "3.0.0-SNAPSHOT.68"
+    },
+    {
+      "name": "mod-record-specifications",
+      "version": "2.1.0-SNAPSHOT.105"
+    },
+    {
+      "name": "mod-inn-reach",
+      "version": "3.5.0-SNAPSHOT.413"
+    },
+    {
+      "name": "mod-orders-storage",
+      "version": "14.0.0-SNAPSHOT.445"
+    },
+    {
+      "name": "mod-erm-usage-harvester",
+      "version": "5.2.0-SNAPSHOT.202"
+    },
+    {
+      "name": "mod-password-validator",
+      "version": "3.5.0-SNAPSHOT.99"
+    },
+    {
+      "name": "edge-dcb",
+      "version": "1.4.0-SNAPSHOT.42"
+    },
+    {
+      "name": "mod-fqm-manager",
+      "version": "4.1.0-SNAPSHOT.718"
+    },
+    {
+      "name": "mod-bulk-operations",
+      "version": "2.3.0-SNAPSHOT.444"
+    },
+    {
+      "name": "mod-finance",
+      "version": "5.2.0-SNAPSHOT.295"
+    },
+    {
+      "name": "mod-tlr",
+      "version": "1.2.0-SNAPSHOT.85"
+    },
+    {
+      "name": "mod-lists",
+      "version": "3.2.0-SNAPSHOT.204"
+    },
+    {
+      "name": "mod-permissions",
+      "version": "6.8.0-SNAPSHOT.192"
+    },
+    {
+      "name": "edge-oai-pmh",
+      "version": "2.12.0-SNAPSHOT.121"
+    },
+    {
+      "name": "mod-rtac",
+      "version": "3.9.0-SNAPSHOT.114"
+    },
+    {
+      "name": "mod-source-record-storage",
+      "version": "5.11.0-SNAPSHOT.699"
+    },
+    {
+      "name": "mod-inventory",
+      "version": "21.2.0-SNAPSHOT.887"
+    },
+    {
+      "name": "mod-requests-mediated",
+      "version": "1.3.0-SNAPSHOT.72"
+    },
+    {
+      "name": "mod-patron-blocks",
+      "version": "1.13.0-SNAPSHOT.111"
+    },
+    {
+      "name": "edge-fqm",
+      "version": "4.1.0-SNAPSHOT.52"
+    },
+    {
+      "name": "mod-invoice-storage",
+      "version": "6.1.0-SNAPSHOT.177"
+    },
+    {
+      "name": "mod-reading-room",
+      "version": "1.3.0-SNAPSHOT.28"
+    },
+    {
+      "name": "mod-data-export",
+      "version": "5.3.0-SNAPSHOT.477"
+    },
+    {
+      "name": "mod-oai-pmh",
+      "version": "3.16.0-SNAPSHOT.392"
+    },
+    {
+      "name": "mod-notes",
+      "version": "7.1.0-SNAPSHOT.289"
+    },
+    {
+      "name": "mod-kb-ebsco-java",
+      "version": "6.1.0-SNAPSHOT.474"
+    },
+    {
+      "name": "mod-eusage-reports",
+      "version": "3.1.0-SNAPSHOT.192"
+    },
+    {
+      "name": "mod-okapi-facade",
+      "version": "3.1.0-SNAPSHOT.70"
+    }
+  ],
+  "uiModules": [
+    {
+      "name": "folio_claims",
+      "version": "2.0.109900000000198"
+    },
+    {
+      "name": "folio_authorization-policies",
+      "version": "2.0.10990000000095"
+    },
+    {
+      "name": "folio_authorization-roles",
+      "version": "2.1.109900000000207"
+    },
+    {
+      "name": "folio_plugin-eusage-reports",
+      "version": "4.0.109900000000119"
+    },
+    {
+      "name": "folio_requests-mediated",
+      "version": "4.0.109900000000131"
+    },
+    {
+      "name": "folio_agreements",
+      "version": "12.1.109900000000852"
+    },
+    {
+      "name": "folio_courses",
+      "version": "7.0.309900000000121"
+    },
+    {
+      "name": "folio_plugin-find-authority",
+      "version": "5.1.10990000000081"
+    },
+    {
+      "name": "folio_plugin-find-agreement",
+      "version": "12.1.109900000000100"
+    },
+    {
+      "name": "folio_stripes-core",
+      "version": "11.1.109900000000967"
+    },
+    {
+      "name": "folio_serials-management",
+      "version": "2.1.109900000000804"
+    },
+    {
+      "name": "folio_plugin-find-eresource",
+      "version": "8.1.10990000000098"
+    },
+    {
+      "name": "folio_data-import",
+      "version": "9.0.109900000000129"
+    },
+    {
+      "name": "folio_handler-stripes-registry",
+      "version": "3.1.10990000000079"
+    },
+    {
+      "name": "folio_receiving",
+      "version": "8.0.109900000000199"
+    },
+    {
+      "name": "folio_calendar",
+      "version": "12.0.109900000000163"
+    },
+    {
+      "name": "folio_plugin-find-po-line",
+      "version": "6.0.10990000000059"
+    },
+    {
+      "name": "folio_myprofile",
+      "version": "11.0.109900000000115"
+    },
+    {
+      "name": "folio_requests",
+      "version": "13.0.109900000000261"
+    },
+    {
+      "name": "folio_plugin-find-contact",
+      "version": "6.0.10990000000040"
+    },
+    {
+      "name": "folio_erm-comparisons",
+      "version": "8.1.109900000000126"
+    },
+    {
+      "name": "folio_eholdings",
+      "version": "11.1.109900000000247"
+    },
+    {
+      "name": "folio_plugin-bursar-export",
+      "version": "5.0.109900000000208"
+    },
+    {
+      "name": "folio_plugin-find-import-profile",
+      "version": "9.0.10990000000046"
+    },
+    {
+      "name": "folio_quick-marc",
+      "version": "10.1.109900000000342"
+    },
+    {
+      "name": "folio_oai-pmh",
+      "version": "6.0.10990000000056"
+    },
+    {
+      "name": "folio_users",
+      "version": "13.0.109900000000573"
+    },
+    {
+      "name": "folio_lists",
+      "version": "4.0.309900000000859"
+    },
+    {
+      "name": "folio_erm-usage",
+      "version": "12.0.109900000000492"
+    },
+    {
+      "name": "folio_plugin-find-package-title",
+      "version": "7.0.10990000000054"
+    },
+    {
+      "name": "folio_service-interaction",
+      "version": "4.1.109900000000231"
+    },
+    {
+      "name": "folio_plugin-find-license",
+      "version": "12.1.10990000000097"
+    },
+    {
+      "name": "folio_plugin-find-organization",
+      "version": "6.0.10990000000031"
+    },
+    {
+      "name": "folio_checkin",
+      "version": "12.0.109900000000146"
+    },
+    {
+      "name": "folio_stripes-marc-components",
+      "version": "2.0.109900000000167"
+    },
+    {
+      "name": "folio_circulation-log",
+      "version": "6.0.10990000000075"
+    },
+    {
+      "name": "folio_remote-storage",
+      "version": "7.0.10990000000057"
+    },
+    {
+      "name": "folio_notes",
+      "version": "12.0.109900000000114"
+    },
+    {
+      "name": "folio_export-manager",
+      "version": "4.0.10990000000071"
+    },
+    {
+      "name": "folio_orders",
+      "version": "9.0.109900000000414"
+    },
+    {
+      "name": "folio_acquisition-units",
+      "version": "6.0.10990000000047"
+    },
+    {
+      "name": "folio_stripes-authority-components",
+      "version": "6.1.109900000000138"
+    },
+    {
+      "name": "folio_plugin-create-inventory-records",
+      "version": "7.0.10990000000074"
+    },
+    {
+      "name": "folio_dashboard",
+      "version": "7.1.109900000000173"
+    },
+    {
+      "name": "folio_plugin-find-instance",
+      "version": "9.1.10990000000091"
+    },
+    {
+      "name": "folio_stripes-smart-components",
+      "version": "10.1.109900000000553"
+    },
+    {
+      "name": "folio_circulation",
+      "version": "11.1.109900000000184"
+    },
+    {
+      "name": "folio_stripes-inventory-components",
+      "version": "2.1.109000000730"
+    },
+    {
+      "name": "folio_tags",
+      "version": "9.0.10990000000044"
+    },
+    {
+      "name": "folio_checkout",
+      "version": "12.0.109900000000133"
+    },
+    {
+      "name": "folio_servicepoints",
+      "version": "8.0.10990000000029"
+    },
+    {
+      "name": "folio_inn-reach",
+      "version": "6.1.10990000000087"
+    },
+    {
+      "name": "folio_local-kb-admin",
+      "version": "9.1.109900000000123"
+    },
+    {
+      "name": "folio_developer",
+      "version": "11.0.109900000000225"
+    },
+    {
+      "name": "folio_organizations",
+      "version": "7.0.10990000000098"
+    },
+    {
+      "name": "folio_licenses",
+      "version": "12.1.109900000000185"
+    },
+    {
+      "name": "folio_plugin-query-builder",
+      "version": "3.0.109900000000769"
+    },
+    {
+      "name": "folio_reading-room",
+      "version": "3.0.10990000000091"
+    },
+    {
+      "name": "folio_plugin-find-interface",
+      "version": "6.0.10990000000042"
+    },
+    {
+      "name": "folio_plugin-find-user",
+      "version": "8.0.10990000000079"
+    },
+    {
+      "name": "folio_marc-authorities",
+      "version": "8.0.1099000000001003"
+    },
+    {
+      "name": "folio_plugin-find-erm-usage-data-provider",
+      "version": "7.0.109900000000121"
+    },
+    {
+      "name": "folio_tenant-settings",
+      "version": "11.0.10990000000097"
+    },
+    {
+      "name": "folio_gobi-settings",
+      "version": "4.0.10990000000054"
+    },
+    {
+      "name": "folio_bulk-edit",
+      "version": "5.0.109900000000552"
+    },
+    {
+      "name": "folio_data-export",
+      "version": "7.0.10990000000069"
+    },
+    {
+      "name": "folio_inventory",
+      "version": "14.0.109900000000959"
+    },
+    {
+      "name": "folio_finance",
+      "version": "9.0.109900000000348"
+    },
+    {
+      "name": "folio_oa",
+      "version": "3.1.109900000000177"
+    },
+    {
+      "name": "folio_plugin-find-fund",
+      "version": "4.0.10990000000027"
+    },
+    {
+      "name": "folio_invoice",
+      "version": "8.0.109900000000264"
+    }
+  ]
+}
